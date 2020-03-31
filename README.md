@@ -1,6 +1,6 @@
 # Landing_page_mouse
-Landing page for showcasing a mouse
-please visit my site 
+Landing page for showcasing a mouse <br>
+Please visit my site 
 ***
 ``` 
 check my site out 
