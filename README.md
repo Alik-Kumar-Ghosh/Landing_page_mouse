@@ -9,7 +9,7 @@ check my site out
 <br>
 <a href="https://akgware.000webhostapp.com/"> https://akgware.000webhostapp.com/ </a>
 ```
-For the contest of Victsing mouse in Hitest choudhary youtube channel
+For the contest of Victsing mouse in Hitesh choudhary youtube channel
 ```
 
 and i have also won it
